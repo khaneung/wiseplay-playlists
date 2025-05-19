@@ -1,0 +1,11 @@
+{
+  "channels": [
+    {
+      "name": "True Premier Football 1",
+      "image": "https://upload.wikimedia.org/wikipedia/en/2/25/True_Sports_Logo.png",
+      "url": "https://cdnsv1.bunnycdncloud.com/dooball2you/tpf1/playlist.m3u8",
+      "isHd": true,
+      "category": "Sports"
+    }
+  ]
+}
